@@ -1,2 +1,0 @@
-# git-drive
-git-drive
